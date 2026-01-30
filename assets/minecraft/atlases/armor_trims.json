@@ -65,7 +65,11 @@
         "minecraft:trims/entity/humanoid/cinder",
         "minecraft:trims/entity/humanoid_leggings/cinder",
         "minecraft:trims/entity/humanoid/mask",
-        "minecraft:trims/entity/humanoid_leggings/mask"
+        "minecraft:trims/entity/humanoid_leggings/mask",
+        "minecraft:trims/entity/humanoid/onion",
+        "minecraft:trims/entity/humanoid_leggings/onion",
+        "minecraft:trims/entity/humanoid/nameless",
+        "minecraft:trims/entity/humanoid_leggings/nameless"
       ]
     }
   ]
